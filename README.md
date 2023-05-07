@@ -17,3 +17,6 @@ https://bit.ly/Sistem-login-ci
 
 6.Card profile glassmorphism
 https://bit.ly/Card-profile
+
+7.Mockup web(sumber ide:tiket.com)
+https://bit.ly/Mockup-website
