@@ -14,3 +14,6 @@ https://bit.ly/Crud-input-data-barang-toko
 
 5.sistem login with codeigniter3:
 https://bit.ly/Sistem-login-ci
+
+6.Card profile glassmorphism
+https://bit.ly/Card-profile
