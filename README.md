@@ -20,3 +20,6 @@ https://bit.ly/Card-profile
 
 7.Mockup web(sumber ide:tiket.com)
 https://bit.ly/Mockup-website
+
+8.Verifkasi/captcha web menggunakan html,css dan javascript
+https://stevanusandika.github.io/verifikasi-login/
