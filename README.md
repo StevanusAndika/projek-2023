@@ -27,4 +27,5 @@ http://bit.ly/verifikasi-login-projek
 9.Jam Analog menggunakan html,css dan javascript
   https://bit.ly/Digital-clock-projek
 
-10.Tic tac toc game menggunakan react-js
+10.catatan belanja(todolist reactjs)
+https://reactjs-projek.vercel.app/
