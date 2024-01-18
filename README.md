@@ -29,3 +29,6 @@ http://bit.ly/verifikasi-login-projek
 
 10.catatan belanja(todolist reactjs)
 https://reactjs-projek.vercel.app/
+
+11.Membuat sistem informasi perpustakaan dengan framework laravel
+   https://github.com/StevanusAndika/projek-Laravel
